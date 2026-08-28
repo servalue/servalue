@@ -31,7 +31,5 @@
 
 ---
 
-### 👨‍💻 Sergei | ⚡️ QA Automation Engineer |
-
 ```bash
 @sergei ➜ Automation gives you time to actually think 💡
